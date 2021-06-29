@@ -1,6 +1,4 @@
-# Wabanex
-
-# Descrição 
+# Wabanex - Descrição 
 
 ## Projeto desenvolvido na semana NLW_Together, utilizando elixir e graphql.
 
