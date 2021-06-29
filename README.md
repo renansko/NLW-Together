@@ -4,9 +4,9 @@
 
 ## Projeto desenvolvido na semana NLW_Together, utilizando elixir e graphql.
 
-#  Cadas
+### Cadastro para usuarios de academia, registrando nome treino e execicios, além disso calculo de IMC. 
 
-To start your Phoenix server:
+Para iniciar o projeto phonix:
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.setup`
