@@ -1,5 +1,11 @@
 # Wabanex
 
+# Descrição 
+
+## Projeto desenvolvido na semana NLW_Together, utilizando elixir e graphql.
+
+#  Cadas
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
